@@ -1,0 +1,14 @@
+#score {
+    font-size: 18px;
+    margin-left: 20px;
+}
+
+#timer {
+    font-size: 18px;
+    float: right;
+    margin-right: 364px;
+}
+
+#sketchtobedrawn {
+    color: red
+}
